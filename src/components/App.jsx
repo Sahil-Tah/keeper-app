@@ -1,0 +1,17 @@
+import React from 'react';
+import '../styles.css';
+import Heading from './Heading.jsx';
+import Footer from './Footer.jsx';
+import Note from './Note.jsx';
+
+function App() {
+    return (
+        <div>
+            <Heading />
+            <Note />
+            <Footer />
+        </div>
+    );
+}
+
+export default App;
