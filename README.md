@@ -1,6 +1,11 @@
-# Getting Started with Create React App
+# Keeper App 📝
 
+A simple clone of note-taking app made using ReactJS. For styling and effects, [@material-ui/core](https://material-ui.com/) and [@material-ui/icons](https://material-ui.com/components/material-icons/) are used.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Preview
+
+![preview-gif](assets/keeper-app.gif)
 
 ## Available Scripts
 
